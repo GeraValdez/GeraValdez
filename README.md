@@ -1,4 +1,4 @@
-### Hello, I am Gerardo Valdez 👋
+### Hello, I am Gerardo Valdez 👋🏼
 
 I majored in Data Science and Statistics, and minored in Economics at Minerva Schools at the Keck Graduate Institute. I traveled, worked, and studied in seven different countries around the world 🇺🇸 🇰🇷 🇮🇳 🇩🇪 🇦🇷 🇬🇧 🇹🇼 throughout my college education. Since I was young, I always enjoyed solving problems and building things. Writing software gives me the same kind of enjoyment I had when I built my own catapult as a nine year old kid.
 
