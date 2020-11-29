@@ -106,7 +106,7 @@ Building statistically sound economic models, proving causality, and drawing app
  - **Causal Inference and Hypothesis Testing**
     * Type I and type II errors
     * One tailed and double tailed T-tests
-    * ANOVA, Fisher's test of independence, $\chi^{2}$ test, p-values
+    * ANOVA, Fisher's test of independence, Chi-squared test, p-values
     * Sum of squares total, due to regression, and due to the error (SST, SSR, SSE)
     
     
